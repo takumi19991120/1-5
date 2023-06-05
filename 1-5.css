@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+  padding: 15px 0;
+  margin: 0 auto;
+  border-bottom: 1px solid #848282;
+  border-top: 1px solid #848282;
+}
+
+a{
+  margin: 0 20px;
+  display: inline-block;
+}
+
+div{
+  width: 800px;
+  height: 600px;
+  margin: 50px auto;
+  background-color: #cbffd3;
+}
+
+footer{
+  text-align: center;
+    width: 100%;
+  height: 120px;
+  line-height: 120px;
+  background-color: #848282;
+}
+
+footer>p{
+  color: #fff;
+}
